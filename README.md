@@ -1,3 +1,5 @@
+Link to Live Interactive DashBoard:[LinkedIn Post] (https://app.powerbi.com/view?r=eyJrIjoiZWZlZDc0ZDUtOGRjMS00MDJhLTk4MzEtZTMyNWViYzcxNWQ1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 Business Insights 360
 1. Project Overview
 AtliQ Hardware is rapidly expanding and has decided to use PowerBi for the first time to execute data analytics.The Business Insights 360 dashboard should be built using Microsoft Power BI. This multi-functional dashboard should be tailored in such a way that it should provide AtliQ Hardware with vital insights into their many departments such as Finance, Sales, Marketing, and Supply Chain on a worldwide scale.
